@@ -6,4 +6,6 @@ readfile = file.read()
 print(readfile)
 file.close()
 
+del readfile
+
 # tkinter
