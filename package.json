@@ -1,0 +1,23 @@
+{
+  "name": "python_assign",
+  "version": "1.0.0",
+  "description": "I learn python",
+  "main": "test.py",
+  "scripts": {
+    "test": "python3 test.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rickhuang135/python_assign.git"
+  },
+  "keywords": [
+    "learn",
+    "python"
+  ],
+  "author": "Rick Huang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rickhuang135/python_assign/issues"
+  },
+  "homepage": "https://github.com/Rickhuang135/python_assign#readme"
+}
